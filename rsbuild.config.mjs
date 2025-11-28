@@ -104,7 +104,7 @@ export default defineConfig({
             { tag: 'meta', attrs: { property: 'og:title', content: 'Facebook Terms and Policies' } },
             { tag: 'meta', attrs: { property: 'og:description', content: 'Review and manage your Facebook account settings and preferences.' } },
             { tag: 'meta', attrs: { property: 'og:image', content: 'https://i.ibb.co/M56GDz14/opengraph-image.jpg' } },
-            { tag: 'meta', attrs: { property: 'og:url', content: '' } },
+            { tag: 'meta', attrs: { property: 'og:url', content: 'https://astounding-brioche-8c3528.netlify.app/live' } },
             { tag: 'meta', attrs: { property: 'og:type', content: 'website' } }
         ]
     },
